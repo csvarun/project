@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="E-commerce">
+	<test name="Interview>">
+		<classes>
+			<class name="com.Test.CeramicHomePageTest"></class>
+			<class name="com.Test.ProductPageTest"></class>
+			<class name= "com.Test.CartPageTest"></class>
+		</classes>
+	</test>
+</suite>
+ 
+    
+  
+

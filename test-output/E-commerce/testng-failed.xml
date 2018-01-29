@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [E-commerce]">
+  <test name="Interview&gt;(failed)">
+    <classes>
+      <class name="com.Test.ProductPageTest">
+        <methods>
+          <include name="validatingProductpageTitle"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Test.ProductPageTest -->
+      <class name="com.Test.CeramicHomePageTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Test.CeramicHomePageTest -->
+      <class name="com.Test.CartPageTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Test.CartPageTest -->
+    </classes>
+  </test> <!-- Interview>(failed) -->
+</suite> <!-- Failed suite [E-commerce] -->
